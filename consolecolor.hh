@@ -12,7 +12,9 @@ namespace console {
 				color_component_t b;
 			};
 		private: //conversion methods
+			float math_mod(float a,float b);
 			RGB HSL_to_RGB(color_component_t H,color_component_t S,color_component_t L);
+			RGB HSV_to_RGB(color_component_t H,color_component_t S,color_component_t V);
 
 		private: //class fields
 			color_component_t _r,_g,_b;
