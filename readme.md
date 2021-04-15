@@ -27,9 +27,9 @@ Fill free to download the code and try it yourself!
 
 TO DO
 
-![#ff0000](https://via.placeholder.com/15/f03c15/000000?text=+)
-![#ffb600](https://via.placeholder.com/15/f03c15/000000?text=+)
-![#ffff00](https://via.placeholder.com/15/f03c15/000000?text=+)
-![#50ff50](https://via.placeholder.com/15/f03c15/000000?text=+)
-![#5050ff](https://via.placeholder.com/15/f03c15/000000?text=+)
-![#00005f](https://via.placeholder.com/15/f03c15/000000?text=+)
+![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+)
+![#ffb600](https://via.placeholder.com/15/ffb600/000000?text=+)
+![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+)
+![#50ff50](https://via.placeholder.com/15/50ff50/000000?text=+)
+![#5050ff](https://via.placeholder.com/15/5050ff/000000?text=+)
+![#00005f](https://via.placeholder.com/15/00005f/000000?text=+)
