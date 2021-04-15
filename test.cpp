@@ -16,7 +16,7 @@ int main() {
 	std::cout << "\u0010 " << "Security testing : " << std::endl;
 	try {
 		std::cout << console::color(42,666,69) << " /!\\ " << "This text shouldn't be displayed ! " << console::reset << std::endl;
-	} catch( std::range_error e ) {
+	} catch( std::range_error * e ) {
 		std::cout << console::color(42,255,69) << " [V] " << "Test passed " << console::reset << std::endl;
 	}
 	std::cout << std::endl;
