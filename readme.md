@@ -27,4 +27,9 @@ Fill free to download the code and try it yourself!
 
 TO DO
 
-<span style="color:red;">■</span><span style="color:orange;">■</span><span style="color:yellow;">■</span><span style="color:green;">■</span><span style="color:blue;">■</span><span style="color:purple;">■</span>
+![#ff0000](https://via.placeholder.com/15/f03c15/000000?text=+)
+![#ffb600](https://via.placeholder.com/15/f03c15/000000?text=+)
+![#ffff00](https://via.placeholder.com/15/f03c15/000000?text=+)
+![#50ff50](https://via.placeholder.com/15/f03c15/000000?text=+)
+![#5050ff](https://via.placeholder.com/15/f03c15/000000?text=+)
+![#00005f](https://via.placeholder.com/15/f03c15/000000?text=+)
